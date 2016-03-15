@@ -2,6 +2,8 @@
 ByValue
 ========================================
 Pass by value summary demo for iOS/OSX.
+
+
 【 界面传值总结概括demo 】
 --------------------------------------
 
@@ -28,3 +30,7 @@ Pass by value summary demo for iOS/OSX.
 [self method_singleton];
 ### /***** 7 - 文件/NSUserdefault *****/
 [self method_NSUserdefault];
+
+
+--------------------------------------
+如何使用：里面的内容都是直接注释掉的，可以直接去掉对应传值方法的注释，观察在各种不同方法下，数据如何进行传递。
