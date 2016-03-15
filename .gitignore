@@ -1,0 +1,3 @@
+# git ignore
+xcuserdata
+.DS_Store
